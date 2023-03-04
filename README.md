@@ -29,7 +29,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='myStory walkthrough.gif' title='myStory Walkthrough' width='200'>
+<img src='myStory walkthrough.gif' title='myStory Walkthrough' width=''>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap  
