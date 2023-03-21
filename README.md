@@ -2,7 +2,7 @@
 
 Submitted by: **Kayla Son**
 
-**MyStory** is an app that introduces myself, revealing ome basic info about me as well as my hobbies and my current music taste that is sectioned. Users can click on hany of the three catergories to learn more detail about me. 
+**MyStory** is an app that is a simplified profile page about you or a fictional character of your choosing. The initial screen of this app has a few high-level context items about the person/thing. Users are able to tap into those items to reveal more information about them. 
 
 Time spent: **5** hours spent in total
 
